@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 I’m currently working on:<br><br>A Python-based Point of Sale (POS) and Inventory Management System.<br>Assignments involving web application security demonstrations like SQL Injection, XSS, and CSRF attacks using OWASP tools and Burp Suite.<br>Preparing for the AWS Certified Cloud Practitioner and Microsoft Azure Fundamentals (AZ-900) exams.<br>🤝 I’m looking to collaborate on:<br><br>Projects involving cloud solutions, Python-based applications, or automation tools.<br>Security-focused software development or testing projects.<br>❓ I’m looking for help with:<br><br>Advancing my knowledge of software architecture and design for Python applications.<br>Building integrations between local apps and POS systems.<br>Stock market learning and investment strategies.<br>📚 I’m currently learning:<br><br>Cloud computing (AWS and Azure).<br>Software engineering principles for scalable applications.<br>Cybersecurity concepts like cryptography, PKI, and secure application development.<br>💬 Ask me about:<br><br>Building and demonstrating ethical hacking simulations using OWASP tools.<br>Python development for small business solutions.<br>Cloud basics for aspiring professionals.<br>🎉 Fun fact:<br>When I’m not coding or studying, I enjoy exploring cities (sometimes for my vlogs!)
 
-<!--
-**airbik-codes/airbik-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aakibkibriakhan) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=airbik-codes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=airbik-codes&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=airbik-codes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=airbik-codes&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
